@@ -1,0 +1,24 @@
+.container{
+    max-width: 854px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+input {
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 16px;
+    border: 0;
+    padding: 15px;
+    margin: 4px;
+    width: 400px;
+}
+
+select{
+  font-size: 20px;
+    font-weight: 600;
+    border-radius: 16px;
+    border: 0;
+    padding: 15px;
+    margin: 4px;
+    width: 100px;
+}
