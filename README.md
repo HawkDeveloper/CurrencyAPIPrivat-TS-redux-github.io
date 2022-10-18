@@ -1,0 +1,1 @@
+# CurrencyAPIPrivat-TS-redux-github.io
